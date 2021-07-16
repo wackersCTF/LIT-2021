@@ -28,8 +28,11 @@ Sample output
 314
 
 Sample Solutions(this will not be on the contest)
+
 C++: https://ideone.com/IYxJjn
+
 Java: https://ideone.com/8J7d7g
+
 Python: https://ideone.com/8ZwIg4
 
 # Solution
