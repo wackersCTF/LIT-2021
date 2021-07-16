@@ -26,6 +26,7 @@ You should output one integer equivialent to the total amount of time for which 
 
 ### Sample input:
 5 4 2
+
 1 3 4 13 18
 
 ### Sample output
