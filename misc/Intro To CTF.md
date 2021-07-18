@@ -1,5 +1,5 @@
-# LexMACS
-Author: Intro To CTF
+# Intro To CTF
+Author: LexMACS
 
 ## Challenge
 Welcome to your first CTF Challenge! For this problem, you simply need to read the CTF Resource page and find the flag :D.
