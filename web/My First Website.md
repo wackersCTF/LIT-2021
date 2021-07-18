@@ -14,4 +14,4 @@ I found the second part of the flag in the source code, though you could also fi
 
 <img src="https://user-images.githubusercontent.com/86171033/126084837-e5a8d03d-146f-401b-b5b0-07b8773844e7.png" alt="website notification" width=600>
 
-Flag: ```flag{1_l1k3_d351gns}```
+Flag: ```flag{1_l1k3_90s_w3bs1t3s_d351gns}```
