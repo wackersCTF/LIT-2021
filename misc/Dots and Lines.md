@@ -2,7 +2,8 @@
 Author: Andrew Shin
 
 ## Challenge
-Ye old way of delivering messages, might want to slow it down to catch everything… Note: set the spaces as is, do not replace spaces with underscores \n
+Ye old way of delivering messages, might want to slow it down to catch everything… Note: set the spaces as is, do not replace spaces with underscores 
+
 Attachment: https://drive.google.com/uc?export=download&id=1qP_8qp2gviDJ5HKRWKDdV54V8tPP0LrG
 
 ## Solution 
