@@ -9,4 +9,4 @@ What is that strange melody composed of only 4 notes I hear? I must decrypt it!
 The first part is relatively straightforward: transcribe the audio file into notes on paper (or computer) that you can later decrypt (I have that attached as a text file).
 
 We get only four notes (c,d,e,f).
-With the encoding ```c = 0, d = 1, e = 2, f = 3```, we get something in base 4. TODO
+With the encoding ```c = 0, d = 1, e = 2, f = 3```, we get something in base 4. I wasn't able to do this part in the competition because I didn't understand how to make sense of base 4 output. TODO
