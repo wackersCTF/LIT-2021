@@ -15,6 +15,7 @@ flag: ```flag{25.709,100.147,34.914,135.806}```
 
 ## Notes / References
 image1: https://en.wikipedia.org/wiki/Chongsheng_Temple_(Yunnan)
+
 image2: https://en.wikipedia.org/wiki/Manpuku-ji#/media/File:Mampukuji.jpg
 
 As a testament to how close I was to solving this challenge, I attached a txt file with my notes right before the competition ended. As you can see, I had the right flag :(
