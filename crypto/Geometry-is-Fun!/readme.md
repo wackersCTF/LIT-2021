@@ -13,3 +13,7 @@ flag: ```flag{ilovegeo}```
 
 ### Reference
 https://planetcalc.com/4884/
+
+https://www.omnicalculator.com/math/triangle-area
+
+I was too lazy to do the calculations by hand.
