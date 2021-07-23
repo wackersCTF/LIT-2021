@@ -17,4 +17,17 @@ for char in i:
     print(chr(ord(char)^5))
 ```
 
+
 flag: ```flag{0bfusc4t10n_1s_n0t_v3ry_s3cur3}```
+
+
+### Another solve script
+Building on to the original script, this cleans it up a little:
+```
+i = "x6wpf6vZ|w6sZq5kZv4Zk54q1fvpcg5~bdic"
+flag = ""
+for char in i:
+    flag +=(chr(ord(char)^5))
+flag = flag[::-1]
+print(flag)
+```
